@@ -115,5 +115,5 @@ const List<String> _kProductIds = <String>[
     getPurchaseButton(snapshot.data[index].ios_product_id.toString()),
 
 
-# Postman Collection 
+# Postman Collection .
 https://technomasr.com/Demos/almosawi/api
