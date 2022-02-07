@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>231480606240-40hgbnqvorra9b5qrbes9enaipsm797v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.231480606240-40hgbnqvorra9b5qrbes9enaipsm797v</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>231480606240-aq7ogtf91hio4o867ig6lv6t4ab5h03a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtiU8x1mDaELb76NX1OOHvmkDA8mmOsaY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>231480606240</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ahmadalmosawi.app</string>
+	<key>PROJECT_ID</key>
+	<string>almosawii</string>
+	<key>STORAGE_BUCKET</key>
+	<string>almosawii.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:231480606240:ios:0057ebae67c7c47cc94645</string>
+</dict>
+</plist>
